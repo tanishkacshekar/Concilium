@@ -1,0 +1,25 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+websockets
+pydantic
+pydantic-settings
+python-dotenv
+groq
+aiofiles
+pydantic[email]
+# Meeting bot: audio + Selenium
+sounddevice
+numpy
+webrtcvad
+selenium
+webdriver-manager
+websockets
+# STT Fallback: local Whisper
+openai-whisper
+# For audio processing with whisper
+ffmpeg-python
